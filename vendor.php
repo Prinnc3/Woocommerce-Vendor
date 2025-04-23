@@ -1,7 +1,6 @@
 <?php
 /*
 Plugin Name: Vendor Name for Products
-Plugin URI: https://ehimaprince.com
 Description: Adds a vendor name field to WooCommerce products and displays it on the front end.
 Version: 1.0
 Author: Ehima Prince
