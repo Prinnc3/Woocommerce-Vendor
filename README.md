@@ -1,12 +1,12 @@
 # Woocommerce-Vendor
 
-Adds a vendor name field to WooCommerce products and displays it on the front end.
+Adds a vendor name field to WooCommerce products and displays it on the frontend.
 
-
+&nbsp;
 ![vendor](https://github.com/user-attachments/assets/402dc1f6-75a2-4c22-ad68-91095243e6a9)
 
-
-🛠️ <h1>How to Use:</h1>
+&nbsp;
+<p><h1>How to Use:</h1></p>
 
 1. Download the vendor.php file.
 
@@ -20,6 +20,6 @@ Adds a vendor name field to WooCommerce products and displays it on the front en
 
 6. Input your vendor name in the new field.
 
-Save — boom! 🎉 Vendor name should be visible at the frontend.
-
+Save — boom! 🎉 Vendor name should be visible on the frontend.
+&nbsp;
 
